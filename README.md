@@ -1,2 +1,2 @@
 # shopping-list-project
- Shopping List Project
+ Shopping List Project using Local Storage
